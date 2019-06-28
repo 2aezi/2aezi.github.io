@@ -1,5 +1,16 @@
 body{
- color: #33CCFF;
  background-color: black;
  font-family: monospace;
+}
+
+.tnc{
+ color: #33CCFF;
+}
+
+.bnt{
+ color: pink;
+}
+
+.fnt{
+ color: white;
 }
